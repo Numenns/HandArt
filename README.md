@@ -40,7 +40,7 @@ Ejecutar HandArt
 .\.venv\Scripts\python.exe -m handart
 ```
 
-Después de instalar las dependencias, también puedes iniciar la app abriendo un  `scripts/ejecutar.bat`, que es con el que haciamos las pruebas, pero tambien contamos con un `HandArt.exe`, ábrelo con doble clic. El ejecutable generado se encuentra en `dist/HandArt.exe` e incluye Python, las librerias, los modelos y los iconos.
+Después de instalar las dependencias, también puedes iniciar la app abriendo un  `scripts/ejecutar.bat`, que es con el que haciamos las pruebas, pero tambien contamos con un `HandArt.exe`, ábrelo con doble clic. El ejecutable generado se encuentra en [Releases](https://github.com/Numenns/HandArt/releases) e incluye Python, las librerias, los modelos y los iconos.
 
 
 ## Estructura de la aplicacion
